@@ -36,9 +36,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Changelog
-- Dislikes the ones who has no photo
+- initial version with essential analysis
 
 ## Fixings
-- sleeps replaced for implicit waits
-- fixed the "find_element_by_xpath" by custom xpath
 
