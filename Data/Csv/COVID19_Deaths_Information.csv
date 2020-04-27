@@ -3,7 +3,7 @@ Date,Sexo,Edad,Provincia
 3/4/2020,,,
 3/5/2020,,,
 3/6/2020,,,
-3/7/2020,,,
+3/7/2020,,,Capital Federal
 3/8/2020,,,
 3/9/2020,,,
 3/10/2020,,,
@@ -15,28 +15,28 @@ Date,Sexo,Edad,Provincia
 3/16/2020,,,
 3/17/2020,,,
 3/18/2020,,,
-3/19/2020,,,
+3/19/2020,,,Capital Federal
 3/20/2020,,,
-3/21/2020,Mujer,,
+3/21/2020,Mujer,,Buenos Aires
 3/22/2020,,,
 3/23/2020,,,
-3/24/2020,Hombre,71,
-3/24/2020,Hombre,53,
+3/24/2020,Hombre,71,Buenos Aires
+3/24/2020,Hombre,53,Chaco
 3/25/2020,Mujer,81,Capital Federal
 3/25/2020,Mujer,73,Chaco
-3/26/2020,Hombre,59,
-3/26/2020,Hombre,89,
-3/26/2020,Hombre,78,
-3/26/2020,Mujer,82,
+3/26/2020,Hombre,59,Chaco
+3/26/2020,Hombre,89,Buenos Aires
+3/26/2020,Hombre,78,Buenos Aires
+3/26/2020,Mujer,82,Capital Federal
 3/27/2020,Hombre,81,
 3/27/2020,Mujer,73,
 3/27/2020,Mujer,72,
 3/27/2020,Hombre,59,
 3/27/2020,Hombre,70,
 3/28/2020,Hombre,51,Buenos Aires
-3/28/2020,Mujer,84,
-3/29/2020,Hombre,58,
-3/30/2020,Hombre,50,Tucuman
+3/28/2020,Mujer,84,Capital Federal
+3/29/2020,Hombre,58,Buenos Aires
+3/29/2020,Hombre,50,Tucuman
 3/30/2020,Hombre,67,Buenos Aires
 3/30/2020,Hombre,58,Buenos Aires
 3/30/2020,Mujer,77,Tucuman
@@ -49,6 +49,7 @@ Date,Sexo,Edad,Provincia
 4/1/2020,Hombre,66,Santa Fe
 4/1/2020,Hombre,78,Neuquen
 4/1/2020,Mujer,63,Buenos Aires
+4/1/2020,,,Capital Federal
 4/2/2020,Hombre,73,Mendoza
 4/2/2020,Hombre,61,Chaco
 4/2/2020,Hombre,41,Buenos Aires
@@ -58,6 +59,7 @@ Date,Sexo,Edad,Provincia
 4/3/2020,Hombre,60,Chaco
 4/3/2020,Hombre,76,Mendoza
 4/3/2020,Mujer,53,Buenos Aires
+4/3/2020,,,Tucuman
 4/4/2020,Hombre,73,Buenos Aires
 4/5/2020,Hombre,72,Buenos Aires
 4/5/2020,Hombre,66,Cordoba
@@ -66,12 +68,15 @@ Date,Sexo,Edad,Provincia
 4/6/2020,Hombre,77,Capital Federal
 4/6/2020,Hombre,68,Neuquen
 4/6/2020,Hombre,83,Buenos Aires
+4/6/2020,,,Capital Federal
+4/6/2020,,,Buenos Aires
 4/7/2020,Hombre,66,Buenos Aires
 4/7/2020,Hombre,51,Buenos Aires
 4/7/2020,Hombre,82,Buenos Aires
 4/7/2020,Hombre,80,Capital Federal
 4/7/2020,Hombre,68,Capital Federal
 4/7/2020,Hombre,44,Mendoza
+4/7/2020,,,Buenos Aires
 4/8/2020,Mujer,61,Tucuman
 4/8/2020,Mujer,82,Buenos Aires
 4/8/2020,Hombre,72,Buenos Aires
@@ -87,6 +92,10 @@ Date,Sexo,Edad,Provincia
 4/9/2020,Hombre,40,Buenos Aires
 4/9/2020,Hombre,70,Chaco
 4/9/2020,Hombre,64,Santa Fe
+4/9/2020,,,Capital Federal
+4/9/2020,,,Capital Federal
+4/9/2020,,,Capital Federal
+4/9/2020,,,Capital Federal
 4/10/2020,Mujer,87,Capital Federal
 4/10/2020,Hombre,66,Rio Negro
 4/10/2020,Hombre,67,Buenos Aires
@@ -96,11 +105,13 @@ Date,Sexo,Edad,Provincia
 4/11/2020,Hombre,47,Buenos Aires
 4/11/2020,Hombre,79,Buenos Aires
 4/11/2020,Hombre,62,Buenos Aires
+4/11/2020,,,Capital Federal
 4/12/2020,Mujer,67,Buenos Aires
 4/12/2020,Mujer,77,Buenos Aires
 4/12/2020,Hombre,80,Cordoba
 4/12/2020,Hombre,90,Buenos Aires
 4/12/2020,Hombre,64,Capital Federal
+4/12/2020,,,Buenos Aires
 4/13/2020,Hombre,70,Cordoba
 4/13/2020,Hombre,86,Capital Federal
 4/13/2020,Mujer,75,Buenos Aires
@@ -108,6 +119,9 @@ Date,Sexo,Edad,Provincia
 4/14/2020,Hombre,81,Buenos Aires
 4/14/2020,Mujer,78,Cordoba
 4/14/2020,Mujer,91,Buenos Aires
+4/14/2020,,,Capital Federal
+4/14/2020,,,Chaco
+4/14/2020,,,Rio Negro
 4/15/2020,Mujer,80,Capital Federal
 4/15/2020,Mujer,94,Capital Federal
 4/15/2020,Mujer,79,La Rioja
